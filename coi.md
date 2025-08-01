@@ -12,7 +12,7 @@ Here are some ideas to get you started but it's permissionless so feel free to b
 - 🤔 I’m looking for help with {Impact Metrics, Eco Credits, Community Building}
 - 💬 Ask me about - {smart contract development, logics, web3 tooling}
 - 📫 How to reach me: {Telegram, Discord, Farcaster}
-- 😄 Pronouns: Him
+- 😄 Pronouns: he/him
 - ⚡ Fun facts: {Likes to take the train after 10:00pm, We already spent more than 5 hours in call, Helped me to deploy my first contract}
 
 Because it's all a matter of subjective perspective:
