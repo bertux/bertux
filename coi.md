@@ -17,7 +17,7 @@ Here are some ideas to get you started but it's permissionless so feel free to b
 
 Because it's all a matter of subjective perspective:
 - So what may be obvious to you may not be obvious to me.
-- That's what I try to remind to myself every day before trying pair programming sessions.
+- That's what I try to remind myself every day before trying pair programming sessions.
 
 <!-- WALLET-LINKING-BEGIN
 {
